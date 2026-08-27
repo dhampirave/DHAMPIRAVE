@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include "./head.njk" %}
+</head>
+<body>
+    <details id="burger"> <!--BURGER MENU (mobile)-->
+        <summary id="toggle">Menu</summary>
+        <nav id="menu">
+            <ul>
+                <li><a href="/about.html" title="About me!">Webmaster</a></li>
+                <li><a href="/resources.html" title="Stuff to learn!">Links/Resources</a> <img src="images/update.gif" alt="update"></li>
+                <li><a href="/record.html">Music Tastes</a> <img src="images/update.gif" alt="update"></li>
+                <li><a href="/graphics.html">Graphics</a></li>
+                <li><a href="/social.html">Social</a></li>
+                <li><a href="/sitemap.html" title="Extended site directory">Site Map</a></li>
+                <li><a href="https://neocities.org/site/dhampirave">Neocities Profile</a></li>
+                <li class="skip"><a href="#toggle">Close menu</a></li>
+            </ul>
+        </nav>
+    </details>
+    <div id="wrapper"> <!--MAIN CONTAINER-->
+        <header> <!--HEADER-->
+            <h1>DHAMPIRAVE</h1>
+        </header>
+        <div id="mainbox"> <!--SIDEBAR AND MAIN CONTENT-->
+            <aside> <!--SIDEBAR-->
+                <nav id="main-menu" aria-label="directory"> <!--NAVIGATION (desktop)-->
+                    <h2 class="dir">main</h2>
+                    <ul class="navvy">
+                        <li><a href="/about.html" title="About me!">Webmaster</a></li>
+                        <li>Art</li>
+                        <li>Music taste</li>
+                    </ul>
+                    <h2 class="dir">for you</h2>
+                    <ul class="navvy">
+                        <li><a href="/resources.html" title="Stuff to learn!">Links/Resources</a></li>
+                        <li>Graphics</li>
+                        <li><a href="/resources.html" title="Stuff to learn!">Social</a></li>
+                    </ul>
+                    <h2 class="dir">fandoms</h2>
+                    <ul class="navvy">
+                        <li>Transformers</li>
+                        <li>Umamusume</li>
+                        <li>Pokemon</li>
+                        <li>Winx Club</li>
+                    </ul>
+                </nav>
+                <a href="http://www.mabsland.com/Adoption.html"><img alt="A censorship panda indicating that this site is PG" src="images/Censor_14c.webp" class="centerimg" title="This site is rated PG-14!"></a>
+            </aside>
+            <main> <!--MAIN CONTENT-->
+                {{ content | safe }}
+            </main>
+        </div>
+        <footer> <!--FOOTER-->
+            {% include "./footer.njk" %}
+        </footer>
+        <script src="assets/year.js"></script> <!--YEAR JS-->
+    </div>
+</body>
+</html>
