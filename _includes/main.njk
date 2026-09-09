@@ -7,15 +7,18 @@
     <details id="burger"> <!--BURGER MENU (mobile)-->
         <summary id="toggle">Menu</summary>
         <nav id="menu">
-            <ul>
-                <li><a href="/about.html" title="About me!">Webmaster</a></li>
-                <li><a href="/resources.html" title="Stuff to learn!">Links/Resources</a> <img src="images/update.gif" alt="update"></li>
-                <li><a href="/record.html">Music Tastes</a> <img src="images/update.gif" alt="update"></li>
-                <li><a href="/graphics.html">Graphics</a></li>
-                <li><a href="/social.html">Social</a></li>
-                <li><a href="/sitemap.html" title="Extended site directory">Site Map</a></li>
-                <li><a href="https://neocities.org/site/dhampirave">Neocities Profile</a></li>
-                <li class="skip"><a href="#toggle">Close menu</a></li>
+            <h2 class="dir">main</h2>
+            <ul class="navvy">
+                <li><a href="/about" title="About me!">Webmaster</a></li>
+                <li><a href="/artwork">Art</a></li>
+                <li><a href="/record">Music Taste</a></li>
+                <li><a href="/shrines">"Shrines"</a></li>
+            </ul>
+            <h2 class="dir">for you</h2>
+            <ul class="navvy">
+                <li><a href="/resources" title="Stuff to learn!">Links/Resources</a></li>
+                <li>Graphics</li>
+                <li><a href="/social" title="neighbors,webrings, fanlistings, etc">Social</a></li>
             </ul>
         </nav>
     </details>
@@ -23,30 +26,63 @@
         <header> <!--HEADER-->
             <h1>DHAMPIRAVE</h1>
         </header>
-        <div id="mainbox"> <!--SIDEBAR AND MAIN CONTENT-->
+        <div id="bigbox"><!--SIDEBAR AND MAIN CONTENT-->
             <aside> <!--SIDEBAR-->
                 <nav id="main-menu" aria-label="directory"> <!--NAVIGATION (desktop)-->
-                    <h2 class="dir">main</h2>
+                    <h2 class="dir" style="border-top: none;">directory</h2>
                     <ul class="navvy">
-                        <li><a href="/about.html" title="About me!">Webmaster</a></li>
-                        <li>Art</li>
-                        <li>Music taste</li>
-                    </ul>
-                    <h2 class="dir">for you</h2>
-                    <ul class="navvy">
-                        <li><a href="/resources.html" title="Stuff to learn!">Links/Resources</a></li>
-                        <li>Graphics</li>
-                        <li><a href="/resources.html" title="Stuff to learn!">Social</a></li>
-                    </ul>
-                    <h2 class="dir">fandoms</h2>
-                    <ul class="navvy">
-                        <li>Transformers</li>
-                        <li>Umamusume</li>
-                        <li>Pokemon</li>
-                        <li>Winx Club</li>
+                        <li><s><a href="/about" title="About me!">Webmaster</a></s></li>
+                        <li><a href="/artwork">Art</a></li>
+                        <li><s><a href="/record">Music Taste</a></s></li>
+                        <li><s><a href="/shrines">"Shrines"</a></s></li>
+                        <li><s><a href="/resources">Links/Resources</a></s></li>
+                        <li><s><a href="/graphics">Graphics</a></s></li>
+                        <li><s><a href="/social" title="neighbors, webrings, fanlistings, etc">Social</a></s></li>
                     </ul>
                 </nav>
-                <a href="http://www.mabsland.com/Adoption.html"><img alt="A censorship panda indicating that this site is PG" src="images/Censor_14c.webp" class="centerimg" title="This site is rated PG-14!"></a>
+                <a id="theme-toggle" onclick="modeSwitcher()"></a>
+                <div id="musicplayer">
+                    <div class="now-playing"></div>
+                    
+                    <div class="track-info">
+                        <div class="track-name"></div>
+                        <div class="track-artist"></div>
+                    </div>
+
+                    <div class="controls">
+                        <div class="seeking">
+                            <div class="current-time">00:00</div>
+
+                            <input type="range" min="1" max="100" value="0" class="seek_slider" onchange="seekTo()">
+
+                            <div class="total-duration">0:00</div>
+                        </div>
+
+                        <div class="buttons">
+                            <div class="prev-track" onclick="prevTrack()"><span class="material-icons">skip_previous</span></div>
+
+                            <div class="playpause-track" onclick="playpauseTrack()"><span class="material-icons" style="font-size:40px;">play_arrow</span></div>
+
+                            <div class="next-track" onclick="nextTrack()"><span class="material-icons">skip_next</span></div>
+                        </div>
+
+                        <div class="volume">
+                            <span class="material-icons" style="color:black;">volume_up</span>
+                            <input type="range" min="1" max="100" value="25" class="volume_slider" onchange="setVolume()"> <!-- the default volume value is 25, change this if you want it to be higher or lower (i wouldn't recommend it bc it gets really loud) -->
+                        </div>
+                    </div>
+
+                    <audio id="music" src=""></audio>
+                </div>
+                <div class="sitebox">
+                    <img src="/images/sitebuttons/site-button-1.png" alt="One of my site buttons" class="centerimg">
+                    <textarea rows="3" cols="20" readonly>
+                        <a href="dhampirave.nekoweb.org"><img src="SITEBUTTONLOCATION"></a>
+                    </textarea>
+                    <iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>
+                    <a href="">Neocities Profile</a>
+                </div>
+                <img>
             </aside>
             <main> <!--MAIN CONTENT-->
                 {{ content | safe }}
@@ -56,6 +92,10 @@
             {% include "./footer.njk" %}
         </footer>
         <script src="assets/year.js"></script> <!--YEAR JS-->
+        <script src="assets/themeswitcher.js"></script> <!--LIGHT/DARK MODE-->
+        <script src="assets/musicplayer.js"></script> <!--MUSIC PLAYER-->
+        <script src="assets/comment-widget.js"></script>
+        <script src="https://keepandroidopen.org/banner.js?size=mini&id=my-banner&hidebutton=off&animation=off"></script>
     </div>
 </body>
 </html>

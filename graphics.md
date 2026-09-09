@@ -1,5 +1,5 @@
 ---
 title: graphics
-permalink: '/'
 layout: main.njk
 ---
+wip!!

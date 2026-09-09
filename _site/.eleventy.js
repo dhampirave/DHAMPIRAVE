@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setQuietMode(true);
   eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
   eleventyConfig.setUseGitIgnore(false);
-  eleventyConfig.setTemplateFormats(["html", "njk", "txt", "js", "css", "xml", "json"]);
+  eleventyConfig.addTemplateFormats(["txt", "js", "css", "xml", "json"]);
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("style.css");
   eleventyConfig.addPassthroughCopy("images");
