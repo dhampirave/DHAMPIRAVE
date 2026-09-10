@@ -176,7 +176,7 @@ input[type=range]::-moz-range-thumb{
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    color: #B766FF;
+    color: var(--yellow);
     border: 1px solid var(--fg);
 }
 
@@ -209,7 +209,7 @@ input[type=range]::-moz-range-thumb{
     border: 1px solid var(--fg);
 	outline: none;
 }
-.c-input:focus {border: 1px solid #B766FF;}
+.c-input:focus {border: 1px solid var(--green);}
 
 .c-textInput {
     width: calc(100% - 10px);
@@ -262,7 +262,7 @@ input[type=range]::-moz-range-thumb{
 .c-site {
     text-transform: uppercase;
     text-decoration: none;
-    color: #B766FF;
+    color: var(--red);
 }
 .c-site:hover {color: var(--fg);}
 .c-timestamp {
