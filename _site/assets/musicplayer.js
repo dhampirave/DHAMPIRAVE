@@ -27,9 +27,9 @@ let curr_track = document.getElementById("music");
 // CATBOX.MOE IS RECOMMENDED FOR UPLOADING MP3 FILES IF YOU DON'T HAVE NEOCITIES SUPPORTER
 let track_list = [
     {
-        name:"Lagtrain",
-        artist:"inabakumori",
-        path:"https://files.catbox.moe/9ywkki.mp3"
+        name:"Kunekune",
+        artist:"Oonuma Parsley",
+        path:"https://files.catbox.moe/nojunc.mp3"
     },
     {
         name:"Kimi ni Kaikisen",
@@ -37,8 +37,8 @@ let track_list = [
         path:"https://files.catbox.moe/1pxdnw.mp3"
     },
     {
-        name:"God-ish",
-        artist:"Pinocchio-P",
+        name:"What You Know",
+        artist:"Two Door Cinema Club",
         path:"https://files.catbox.moe/xv3vdj.mp3"
     },
     {

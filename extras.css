@@ -1,26 +1,10 @@
-:root, html[data-theme="light"]{
- --fg: #000;
- --bg: #c1c0c0;
- --bg2: #AEADAD;
- --pink: #a80544;
- --urple: #2d0e3f;
-}
-/*Dark Mode*/
-@media(prefers-color-scheme: dark){
-	:root, html[data-theme="dark"]{
-		--fg: #d8dce2;
-		--bg: #1b1b1d;
-		--bg2:#151618;
-		--pink: #F591B2;
-        --urple: #B197FC;
-	}
-}
 
 @font-face {
 	font-family: "Atkinson Hyperlegible Next";
 	src: url("fonts/AtkinsonHyperlegibleNext-Regular.ttf");
 }
 /*MUSIC*/
+
 #musicplayer{
     font-family:'Atkinson Hyperlegible Next'; /* default font */
     background:var(--bg); /* background color of player */
@@ -34,7 +18,7 @@
     flex-direction:column;
     gap:10px;
 }
-
+.material-icons{color: var(--pink);}
 .songtitle, .track-info, .now-playing{
     padding:5px;
 }
@@ -68,10 +52,6 @@
 
 .now-playing{
     font-weight:bold;
-}
-
-.material-icons{
-    color:var(--pink);
 }
 
 input[type=range]{
@@ -251,7 +231,7 @@ input[type=range]::-moz-range-thumb{
     margin-bottom: 15px;
     padding: 10px;
     border: 2px solid var(--fg);
-    background-color: var(--bg2); 
+    background-color: var(--bg); 
 }
 .c-reply {
     display: block;
@@ -268,7 +248,7 @@ input[type=range]::-moz-range-thumb{
     margin: -10px;
     margin-top: 10px;
     padding: 10px;
-    background-color: var(--bg);
+    background-color: var(--bg2);
 }
 
 .c-name {
@@ -298,7 +278,7 @@ input[type=range]::-moz-range-thumb{
     font-size: 14px;
     text-align: justify;
     color: var(--fg);
-    background-color: var(--bg);
+    background-color: var(--bg2);
 }
 
 /* Pagination */
