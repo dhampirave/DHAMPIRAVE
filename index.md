@@ -43,6 +43,7 @@ layout: main.njk
     <div class="update">
         <h3>Updates</h3>
         <ul>
+            <li>9-15-2026 - remade the social page</li>
             <li>9-9-2026 - remade the website using 11ty</li>
             <li>5-18-2026 - redid css and updated a few pages</li>
             <li>9-17-25 - Fixed Resources and Music pages</li>
