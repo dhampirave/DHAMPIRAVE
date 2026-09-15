@@ -91,6 +91,7 @@ my sitebuttons
 <section class="area2">
     <div class="altboxes">
         <h3>Webrings</h3>
+        GET NEKOWEB SUB
     </div>
     <div class="altboxes">
         <h3>Fanlistings</h3>
