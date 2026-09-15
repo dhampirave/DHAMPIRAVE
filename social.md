@@ -4,7 +4,7 @@ layout: main.njk
 ---
 
 <section class="toprect">
-my sitebuttons
+<h3>Site Buttons</h3>
     <section class="socgal">
         <img src="images/sitebuttons/mybutton1.png" alt="my site button!"><img src="images/sitebuttons/mybutton2.png" alt="my site button!"><img src="images/sitebuttons/mybutton3.png" alt="my site button!"><img src="images/sitebuttons/mybutton4.png" alt="my site button!">
     </section>
@@ -93,7 +93,7 @@ my sitebuttons
         <h3>Webrings</h3>
     </div>
     <div class="altboxes">
-        <h3>Fanlistings</h3>
+        <h3>Fanlisting</h3>
         <section class="socgal">
             <a href="http://www.marheavenj.net/emu/index.php"><img src="images/fanlistings/emufanlist.webp" alt="Fanlisting for Emu Otori"></a>
             <a href="https://n.shinshoku.net/"><img src="images/fanlistings/nfanlist.webp" alt="Fanlisting for N (Pokemon)"></a>

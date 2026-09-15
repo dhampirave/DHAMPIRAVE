@@ -208,11 +208,11 @@ padding-bottom: .3125rem;
 /*Homepage end*/
 
 .toprect{
-	height: 150px;
+	height: 6.25rem;
 	border: .0625rem solid var(--fg);
 }
 .rectgen{
-	height: 350px;
+	height: 400px;
 	border: .0625rem solid var(--fg);
 	padding: 5px;
 	overflow: auto;
