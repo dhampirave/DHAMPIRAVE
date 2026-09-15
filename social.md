@@ -3,9 +3,119 @@ title: Neighborhood
 layout: main.njk
 ---
 
-<section class="toprect"></section>
-<section ></section>
-<section >
-    <div></div>
-    <div></div>
+<section class="toprect">
+my sitebuttons
+    <section class="socgal">
+        <img src="images/sitebuttons/mybutton1.png" alt="my site button!"><img src="images/sitebuttons/mybutton2.png" alt="my site button!"><img src="images/sitebuttons/mybutton3.png" alt="my site button!"><img src="images/sitebuttons/mybutton4.png" alt="my site button!">
+    </section>
+</section>
+<section class="rectgen">
+    <h3>Neighbors</h3>
+    <section class="socgal">
+        <a href="https://nekoweb.org/"><img src="https://nekoweb.org/assets/buttons/button9.gif" alt="Nekoweb"></a>
+        <a href="https://nekodir.nekoweb.org/"><img src="images/sitebuttons/nekodir.webp" alt="Nekodir site button"></a>
+        <a href="https://archive.org/"><img src="images/sitebuttons/internetarchive.webp" alt="Internet Archive"></a>
+        <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="images/sitebuttons/firefox.webp" alt="FireFox"></a>
+        <a href="https://www.7-zip.org/"><img src="images/sitebuttons/7zip.webp" alt="7-Zip"></a>
+        <a href="https://status.cafe"><img src="https://status.cafe/assets/button.png" alt="Status Cafe"/></a>
+        <a href="https://www.videolan.org/"><img src="images/sitebuttons/getvlcnow.webp" alt="VideoLAN"></a>
+        <a href="https://foollovers.com"><img src="images/sitebuttons/foollovers.webp" alt="fool lovers site button"></a>
+        <a href="https://sadgrl.online/"><img src="images/sitebuttons/sadgrlonline.webp" alt="sadgrl.online"></a>
+        <a href="https://petrapixel.neocities.org/"><img src="images/sitebuttons/petrapixel.webp" alt="petrapixel site button"></a>
+        <a href="https://virtualobserver.moe/"><img src="images/sitebuttons/virtualobserver.webp" alt="virtualobserver.moe"></a>
+        <a href="https://repth.neocities.org/"><img src="images/sitebuttons/repth.webp" alt="repth.neocities.org"></a>
+        <a href="https://solaria.neocities.org/"><img src="images/sitebuttons/solaria.webp" alt="solaria.neocities.org"></a>
+        <a href="https://dimden.dev/"><img src="images/sitebuttons/dimden.webp" alt="dimden.dev"></a>
+        <a href="https://adilene.net/"><img src="images/sitebuttons/adilene.webp" alt="adilene.net"></a>
+        <a href="https://kalechips.net/"><img src="images/sitebuttons/kalechips.webp" alt="kalechips.net"></a>
+        <a href="https://whiona.me/"><img src="images/sitebuttons/whiona-button.webp" alt="whiona.me"></a>
+        <a href="https://briedraws.neocities.org/"><img src="images/sitebuttons/briedraws.webp" alt="briedraws.neocities.org"></a>
+        <a href="https://slumberingweald.neocities.org/home"><img src="images/sitebuttons/slumberingweald.webp" alt="slumberingweald.neocities.org"></a>
+        <a href="https://deoxys.space/"><img src="images/sitebuttons/deoxysbutton.webp" alt="deoxys.space site button"></a>
+        <a href="https://uvaacademy.neocities.org/"><img src="images/sitebuttons/uvaacademy.webp" alt="uvaacademy.neocities.org"></a>
+        <a href="https://lunarcorvus.com/"><img src="images/sitebuttons/lunarcorvusbutton.webp" alt="lunarcorvus" style="width:88px; height: 31px;"></a>
+        <a href="https://layercake.moe/"><img src="images/sitebuttons/layercake.webp" alt="layercake.moe"></a>
+        <a href="https://prismatic-realm.net/"><img src="images/sitebuttons/prismatic-realm.webp" alt="prismatic-realm.neocities.org"></a>
+        <a href="https://cygnet.neocities.org"><img src="images/sitebuttons/cygnet.webp" alt="cygnet.neocities.org"></a>
+        <a href="https://shinyexe.neocities.org/"><img src="images/sitebuttons/shinyexe.webp" alt="shinyexe.neocities.org"></a>
+        <a href="https://plasticdino.neocities.org/"><img src="images/sitebuttons/plasticdinogif.webp" alt="plasticdino.net"></a>
+        <a href="https://sanguineroyal.com/"><img src="images/sitebuttons/sanguineroyal.webp" alt="sanguineroyal.com"></a>
+        <a href="https://tsumugsfish.neocities.org/"><img src="images/sitebuttons/tsumugsfish.webp" alt="tsumugsfish.neocities.org"></a>
+        <a href="https://gaily-novelry.neocities.org/"><img src="images/sitebuttons/gaily-novelry.webp" alt="gaily novelry.neocities.org"></a>
+        <a href="https://smoketopus.neocities.org/"><img src="images/sitebuttons/smoketopus.webp" alt="Smoketopus.neocities.org"/></a>
+        <a href="https://chartreuse.neocities.org/"><img src="images/sitebuttons/chartreuse.webp" alt="chartreuse.neocities.org"/></a>
+        <a href="https://ophanimkei.com/"><img src="images/sitebuttons/ophanimkei.webp" alt="ophanimkei.com"></a>
+        <a href="https://ruili.neocities.org/"><img src="images/sitebuttons/ruili.webp" alt="ruili.neocities.org"></a>
+        <a href="https://frills.dev/"><img src="images/sitebuttons/frills.webp" alt="frills.dev"></a>
+        <a href= "https://rhodonite.neocities.org/"><img src="images/sitebuttons/neosbutton.webp" alt="rhodonite.neocities"></a>
+        <a href="https://midnightechoesofshutten.neocities.org"><img src="https://files.catbox.moe/ghre0z.gif" alt="Midnight Echoes of Shutten"></a>
+        <a href="https://riddler.nekoweb.org/"><img src="images/sitebuttons/riddler.webp" alt="riddler.nekoweb"></a>
+        <a href="https://yatagarasu.nekoweb.org"><img src="images/sitebuttons/yatagarasu.webp" alt="Yatagarasu site button"></a>
+        <a href="https://ezoiar.jp.net/home"><img src="images/sitebuttons/ezoiar.webp" alt="ezoiar site button"></a>
+        <a href="https://pinkbasement.nekoweb.org/"><img src="images/sitebuttons/pinkbasement.webp" alt="Pink basment site button"></a>
+        <a href="https://misaobit.nekoweb.org/"><img src="images/sitebuttons/misaobit.webp" alt="misaobit site button"></a>
+        <a href="https://icarus.nekoweb.org/"><img src="images/sitebuttons/icarus atelier.webp" alt="icarus.nekoweb site button"></a>
+        <a href="https://chocogum.my/"><img src="images/sitebuttons/chocogummy.webp" alt="chocogum site button" style="width:88px; height: 31px;"></a>
+        <a href="https://nogood-angel.moe/index.html"><img src="images/sitebuttons/nogood-angel.webp" alt="nogood-angel button"></a>
+        <a href="https://nicrinu.moe/"><img src="images/sitebuttons/nicrinu.webp" alt="nicrinu site button"></a>
+        <a href="https://stupied.nekoweb.org/meta/warning?/"><img src="images/sitebuttons/stupied.webp" alt="stupied site button"></a>
+        <a href="https://testtubesterone.nekoweb.org/"><img src="images/sitebuttons/testtubesterone.webp" alt="testtubesterone site button"></a>
+        <a href="https://maxpixels.moe/"><img src="images/sitebuttons/maxpixels.webp" alt="maxpixels site button"></a>
+        <a href="https://aoki553.nekoweb.org/"><img src="images/sitebuttons/aoki553button.webp" alt="aoki553 site button"></a>
+        <a href="https://mars.nekoweb.org/"><img src="images/sitebuttons/marssite.webp" alt="mars site site button"></a>
+        <a href="https://seashrine.nekoweb.org/"><img src="images/sitebuttons/seashrinesitebutton.webp" alt="seashrine site button"></a>
+        <a href="https://bazooiegod.neocities.org/"><img src="images/sitebuttons/bazooiegod.webp" alt="bazooiegod site button"></a>
+        <a href="https://durango.neocities.org/"><img src="images/sitebuttons/durango.webp" alt="durango site button"></a>
+        <a href="https://palemomos.neocities.org/"><img src="images/sitebuttons/palemomos.webp" alt="palemomos site button"></a>
+        <a href="https://ccrusherr.com/"><img src="images/sitebuttons/crusherp.webp" alt="crusher site button"></a>
+        <a href="https://furbee.neocities.org/"><img src="images/sitebuttons/furbee.webp" alt="furbee button"></a>
+        <a href="https://mockguffin.neocities.org/"><img src="images/sitebuttons/mockguffin.webp" alt="mockguffin site button"></a>
+        <a href="https://p3p.neocities.org/"><img src="images/sitebuttons/p3p.gif" alt="p3p site button"></a>
+        <a href="https://frutigeraeroarchive.org/"><img src="images/sitebuttons/frutigeraeroarchive.webp" alt="fruitger aero archive button"></a>
+        <a href="https://mostlypixels.com/"><img src="images/sitebuttons/mostlypixels.webp" alt="mostlypixels site button"></a>
+        <a href="https://yarrow.neocities.org/"><img src="images/sitebuttons/yarrow.webp" alt="yarrow site button"></a>
+        <a href="https://seaofstars.neocities.org/"><img src="images/sitebuttons/seaofstars.webp" alt="seaofstars site button"></a>
+        <a href="https://zorrpu.com/"><img src="images/sitebuttons/Zorrpu.webp" alt="zorrpu site button"></a>
+        <a href="https://www.valentinely.cc/"><img src="images/sitebuttons/valentinely.webp" alt="Valentinely site button"></a>
+        <a href="https://seafare.neocities.org/"><img src="images/sitebuttons/seafare.webp" alt="seafare site button"></a>
+    </section>
+    <section>
+        <a href="https://windchime.neocities.org/"><img src="images/sitebuttons/windchime.webp" width="20%" alt="windchime.neocities.org"></a> 
+        <a href="https://pteri.neocities.org" target="_blank"><img src="images/sitebuttons/pteri.webp" alt="pteri.neocities.org"></a> 
+        <a href="https://venneblade.neocities.org/">Ri's SEED Corner</a> 
+        <a href="https://dilettone.nekoweb.org/">dilettone</a>
+        <a href="https://ricedeity.online/">ricedeity</a>
+        <a href="https://luckyclovers.neocities.org/">Clover Club</a>
+    </section>
+</section>
+<section class="area2">
+    <div class="altboxes">
+        <h3>Webrings</h3>
+    </div>
+    <div class="altboxes">
+        <h3>Fanlistings</h3>
+        <section class="socgal">
+            <a href="http://www.marheavenj.net/emu/index.php"><img src="images/fanlistings/emufanlist.webp" alt="Fanlisting for Emu Otori"></a>
+            <a href="https://n.shinshoku.net/"><img src="images/fanlistings/nfanlist.webp" alt="Fanlisting for N (Pokemon)"></a>
+            <a href="https://lucina.reflet.org/index.php"><img src="images/fanlistings/lucinafanlist.webp" alt="Fanlisting for Lucina (Fire Emblem)"></a>
+            <a href="https://fire.norvrandt.org/"><img src="images/fanlistings/fefanlist.webp" alt="Fanlisting for the Fire Emblem series"></a>
+            <a href="http://like-knives.org/chulainn/index.php"><img src="images/fanlistings/cufanlist.webp" alt="Fanlisting for Cu Chulainn (Fate)"></a>
+            <a href="http://www.marheavenj.net/rei/"><img src="images/fanlistings/reifanlist.webp" alt="Fanlisting for Rei Sakuma"></a>
+            <a href="http://www.marheavenj.net/sakichan/"><img src="images/fanlistings/sakifanlist.webp" alt="Fanlisting for Saki Tenma"></a>
+            <a href="http://www.marheavenj.net/sagishi/"><img src="images/fanlistings/ordfanlist.webp" alt="Fanlisting for Ordinary Person (Akudama Drive)"></a>
+            <a href="https://velvet.after-death.org/"><img src="images/fanlistings/velvetfanlist.webp" alt="Fanlisting for Velvet Crowe"></a>
+            <a href="https://www.marheavenj.net/eichi/"><img src="images/fanlistings/eichifanlist.webp" alt="Fanlisting for Eichi Tenshouin"></a>
+            <a href="https://www.ladyrose.buruma.net/3ds/index.php"><img src="images/fanlistings/3dsfanlist.webp" alt="Fanlisting for the Nintendo 3ds"></a>
+            <a href="https://fans.thislove.nu/mozilla"><img src="images/fanlistings/mozillafanlist.webp" alt="Fanlisting for Mozilla Firefox"></a>
+            <a href="http://yandere.nu/davinci/"><img src="images/fanlistings/davincifanlist.webp" alt="Fanlisting for Leonardo da Vinci (Fate)"></a>
+            <a href="https://lindseyonline.us/bedrooms/"><img src="images/fanlistings/bedroomfanlist.webp" alt="Fanlisting for bedrooms"></a>
+            <a href="https://theatregirl.net/clue/"><img src="images/fanlistings/cluefanlist.webp" alt="Fanlisting for Clue (1985)"></a>
+            <a href="http://www.marheavenj.net/banri/"><img src="images/fanlistings/banrifanlist.webp" alt="Fanlisting for Banri Settsu"></a>
+            <a href="http://www.marheavenj.net/bloom/"><img src="images/fanlistings/bloomfanlist.webp" alt="Fanlisting for Bloom (Winx Club)"></a>
+            <a href="https://noble-scarlet.net/stella/"><img src="images/fanlistings/stellafanlist.webp" alt="Fanlisting for Stella (Winx Club)"></a>
+            <a href="https://rose-magnifique.net/flora/"><img src="images/fanlistings/florafanlist.webp" alt="Fanlisting for Flora (Winx Club)"></a>
+            <a href="https://noble-scarlet.net/cute/index.php"><img src="images/fanlistings/stellabrandonfanlist.webp" alt="Fanlisting for Stella and Brandon (Winx Club)"></a>
+            <a href="http://www.kiri-no-hana.net/kazuya/"><img src="images/fanlistings/kazuyabutton.png" alt="Fanlisting for Kazuya Mishima"></a>
+        </section>
+    </div>
 </section>
