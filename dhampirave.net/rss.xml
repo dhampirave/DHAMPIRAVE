@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 	<channel>
 		<title>RSS FEED</title>
@@ -12,14 +12,16 @@
 			<title>Domain Name change</title>
 			<link>https://dhampirave.net/</link>
 			<description>site url is now dhampirave.net!</description>
-			<pubDate>Wed, 16 Sep 26 12:14:31 -0400</pubDate>
+			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
+			<guid>post 02</guid>
 		</item>
 
 		<item>
 			<title>start of rss feed</title>
 			<link>https://dhampirave.net/</link>
-			<description>The official start of the RSS feed. Previous updates included overhauling the website code.</description>
-			<pubDate>Wed, 16 Sep 26 12:14:31 -0400</pubDate>
+			<description>The official start of the RSS feed. Previous updates included overhauling the website code on Sept 9th, 2026.</description>
+			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
+			<guid>post 01</guid>
 		</item>
 
 	</channel>
