@@ -5,14 +5,7 @@
 		<title>RSS FEED</title>
 		<link>https://dhampirave.net/</link>
 		<description>a personal site</description>
-		<webMaster>Santiago</webMaster>
-
-		<item>
-			<title>start of rss feed</title>
-			<link>https://dhampirave.net/</link>
-			<description>The official start of the RSS feed</description>
-			<pubDate>Wed, 16 Sep 26 12:14:31 -0400</pubDate>
-		</item>
+		<webMaster>dhampirextras@pm.me</webMaster>
 
 		<item>
 			<title>Domain Name change</title>
@@ -25,6 +18,13 @@
 			<link>https://dhampirave.net/</link>
 			<description>Site is remade using 11ty</description>
 			<pubDate>Wed, 09 Sep 26 12:14:31 -0400</pubDate>
+		</item>
+
+		<item>
+			<title>start of rss feed</title>
+			<link>https://dhampirave.net/</link>
+			<description>The official start of the RSS feed</description>
+			<pubDate>Wed, 16 Sep 26 12:14:31 -0400</pubDate>
 		</item>
 
 	</channel>
