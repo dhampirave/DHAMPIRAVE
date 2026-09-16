@@ -1,8 +1,4 @@
 
-@font-face {
-	font-family: "Atkinson Hyperlegible Next";
-	src: url("fonts/AtkinsonHyperlegibleNext-Regular.ttf");
-}
 /*MUSIC*/
 
 #musicplayer{
@@ -296,6 +292,9 @@ input[type=range]::-moz-range-thumb{
     margin-left: 4px;
 }
 
+/*RSS FEED*/
+#rss h3 a{color: var(--orange);}
+#rss h4 a {color: var(--fg);}
 
 @media only screen and (max-width: 49.9375rem) { 
 #c_widget{width: 100%; height: 600px;}

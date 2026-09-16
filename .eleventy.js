@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addTemplateFormats(["txt", "js", "css", "xml", "json"]);
   eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy("style.css");
+  eleventyConfig.addPassthroughCopy("stylesheets/style.css", "stylesheets/extras.css", "stylesheets/decor.css");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("fonts");
   eleventyConfig.addTransform("htmlmin", function (content) {
