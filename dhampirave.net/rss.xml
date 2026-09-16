@@ -13,7 +13,7 @@
 			<link>https://dhampirave.net/</link>
 			<description>site url is now dhampirave.net!</description>
 			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
-			<guid>post 02</guid>
+			<guid>post%02</guid>
 		</item>
 
 		<item>
@@ -21,7 +21,7 @@
 			<link>https://dhampirave.net/</link>
 			<description>The official start of the RSS feed. Previous updates included overhauling the website code on Sept 9th, 2026.</description>
 			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
-			<guid>post 01</guid>
+			<guid>post%01</guid>
 		</item>
 
 	</channel>
