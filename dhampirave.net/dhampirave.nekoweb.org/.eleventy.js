@@ -22,6 +22,6 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   }); 
-  eleventyConfig.setOutputDirectory("dhampirave.net");
+  eleventyConfig.setOutputDirectory("dhampirave.nekoweb.org");
 
 };

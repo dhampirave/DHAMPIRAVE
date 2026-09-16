@@ -22,6 +22,4 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   }); 
-  eleventyConfig.setOutputDirectory("dhampirave.net");
-
 };
