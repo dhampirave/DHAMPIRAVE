@@ -5,7 +5,7 @@
 		<title>RSS FEED</title>
 		<link>https://dhampirave.net</link>
 		<description>a personal site</description>
-		<webMaster>dhampirextras@pm.me</webMaster>
+		<webMaster>dhampirextras@pm.me (SANTIAGO)</webMaster>
 		<atom:link href="https://dhampirave.net/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
