@@ -18,6 +18,7 @@ layout: main.njk
 <hr>
 <section class="area2">
     <div class="twoboxes">
+            <a href="https://dhampirave.net/rss.xml"><img src="images/decor/rss.png" alt="rss feed"></a><br>
         <div id="rss">
         <script src="//rss.bloople.net/?url=https%3A%2F%2Fdhampirave.net%2Frss.xml&showtitle=false&type=js"></script>
         </div>

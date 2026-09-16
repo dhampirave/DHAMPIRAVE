@@ -7,6 +7,10 @@
 	font-family: "Atkinson Hyperlegible Next";
 	src: url("../fonts/AtkinsonHyperlegibleNext-Regular.ttf");
 }
+@font-face {
+	font-family: "Phosphor";
+	src: url("../fonts/Phosphor.ttf");
+}
 
 :root, html[data-theme="light"]{
  --fg: #000;
