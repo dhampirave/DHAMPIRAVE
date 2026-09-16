@@ -1,1 +1,0 @@
-document.getElementById("fakecopyright").innerHTML ="© " + new Date().getFullYear() + " DHAMPIRAVE";
