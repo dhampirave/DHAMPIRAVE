@@ -116,6 +116,18 @@ layout: main.njk
             <a href="https://rose-magnifique.net/flora/"><img src="images/fanlistings/florafanlist.webp" alt="Fanlisting for Flora (Winx Club)"></a>
             <a href="https://noble-scarlet.net/cute/index.php"><img src="images/fanlistings/stellabrandonfanlist.webp" alt="Fanlisting for Stella and Brandon (Winx Club)"></a>
             <a href="http://www.kiri-no-hana.net/kazuya/"><img src="images/fanlistings/kazuyabutton.png" alt="Fanlisting for Kazuya Mishima"></a>
+            <a href="http://sakura.nu/fate/index.php"><img src="images/fanlistings/fgo.webp" alt="Fanlisting for Fate/Grand Order"></a>
+            <a href="https://www.marheavenj.net/fllay/"><img src="images/fanlistings/flayallister.webp" alt="Fanlisting for Flay Allister"></a>
+            <a href="https://lost-boy.org/ma/"><img src="images/fanlistings/millenniumactress.webp" alt="Fanlisting for Millennium Actress"></a>
+            <a href="https://www.celes.net/alphinaud/"><img src="images/fanlistings/alphinaud.webp" alt="Fanlisting for Alphinaud Leveilleur"></a>
+            <a href="https://www.celes.net/alisaie/"><img src="images/fanlistings/alisaie.webp" alt="Fanlisting for Alisaie Leveilleur"></a>
+            <a href="https://fan.hopeslair.haliya.net/fl/kirby/index.php"><img src="images/fanlistings/kirby.webp" alt="Fanlisting for the Kirby series"></a>
+            <a href="https://silent.am/drawing/"><img src="images/fanlistings/drawing.webp" alt="Fanlisting for drawing"></a>
+            <a href="https://powerup.i-heart-you.net/gaming/"><img src="images/fanlistings/playingvideogames.webp" alt="Fanlisting for playing video games"></a>
+            <a href="https://thewildrose.org/lesmis/"><img src="images/fanlistings/lesmis.webp" alt="Fanlisting for Les Misèrables"></a>
+            <a href="https://www.marheavenj.net/sorcerer/"><img src="images/fanlistings/rintohsaka.webp" alt="Fanlisting for Rin Tohsaka"></a>
+            <a href="https://coool.neocities.org/ss/"><img src="images/fanlistings/stylesavvy.webp" alt="Fanlisting for Style Savvy"></a>
+            <a href="https://hndrline.gg8473.com/fanlisting/"><img src="images/fanlistings/hllda.webp" alt="Fanlisting for The Hundred Line -Last Defense Academy-,"></a>
         </section>
     </div>
 </section>
