@@ -127,18 +127,6 @@ textarea{
 	margin-left: auto;
 	margin-right: auto;
 }
-ul{margin: 0;}
-ul.creds{
-	margin-left: -1.2rem;
-	text-align: left;
-	list-style-image: url('images/decor/pushpin.gif');
-	list-style-type: square;
-}
-hr{
-	color: var(--fg);
-	width: 100%;
-	margin: 0;
-}
 
 /*Homepage specific*/
 .area2{
@@ -176,7 +164,7 @@ padding-bottom: .3125rem;
 	border: .0625rem solid var(--fg);
 }
 .rectgen{
-	height: 400px;
+	height: 25rem;
 	border: .0625rem solid var(--fg);
 	padding: 5px;
 	overflow: auto;
@@ -193,9 +181,21 @@ width: 50%;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 5px;
+	gap: .3125rem;
 }
-
+.artgallery{
+	height: 21.875rem;
+	width: 100%;
+	overflow: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.artgallery img{
+	height: 12.5rem;
+	border: 1px solid var(--fg);
+	margin: .3125rem;
+}
 
 /*MOBILE*/
 @media only screen and (max-width: 49.9375rem) { 
@@ -228,12 +228,12 @@ width: 50%;
 	/*INDEX BURGER MENU*/
 	#burger{display:block}
 	#main-menu{display:none}
-	#burger{width:100%;background-color:var(--bg);border:1px solid var(--fg);position:fixed;z-index:1000;top:0;left:0}
+	#burger{width:99.5%;background-color:var(--bg);border:1px solid var(--fg);position:fixed;z-index:1000;top:0;left:0}
 	#burger summary{list-style-type:none;cursor:pointer;display:flex;align-items:center;font-family:'04b08';color:var(--fg);}
 	#burger summary::before,#burger[open]>summary::before{height:40px;width:40px;background:var(--fg)}
 	#burger summary::-webkit-details-marker{display:none}
-	#burger summary::before{content:'';mask-image:url(/assets/burger.svg);-webkit-mask-image:url(/assets/burger.svg);mask-size:40px;-webkit-mask-size:40px}
-	#burger[open]>summary::before{content:'';mask-image:url(/assets/close.svg);-webkit-mask-image:url(/assets/close.svg);mask-size:40px;-webkit-mask-size:40px}
+	#burger summary::before{content:'';mask-image:url(./assets/burger.svg);-webkit-mask-image:url(/assets/burger.svg);mask-size:40px;-webkit-mask-size:40px}
+	#burger[open]>summary::before{content:'';mask-image:url(./assets/close.svg);-webkit-mask-image:url(/assets/close.svg);mask-size:40px;-webkit-mask-size:40px}
 	#burger[open]{position:fixed}.skip a{position:absolute;left:-10000px;top:auto;width:1.008px;height:1.008px;overflow:hidden}.skip a:focus{position:static;width:auto;height:auto}
 	#burger #menu{height:calc(100vh - 50px);z-index:1000;position:relative;overflow:auto;background-color:var(--sec-color)}#burger #menu ul{list-style:none;margin:0;text-align:center;}
 }

@@ -15,7 +15,9 @@ layout: main.njk
         <p>Pages will be re-added eventually!</p>
     </div>
 </section>
-<hr>
+
+---
+
 <section class="area2">
     <div class="twoboxes">
             <a href="https://dhampirave.net/rss.xml"><img src="images/decor/rss.png" alt="rss feed"></a><br>
@@ -46,6 +48,7 @@ layout: main.njk
     <div class="update">
         <h3>Updates</h3>
         <ul>
+            <li>9-18-2026 - added <a href="/artwork">Art</a> and <a href="resources">Resources</a> pages</li>
             <li>9-16-2026 - added rss feed, reorganized css pages</li>
             <li>9-15-2026 - remade the social page</li>
             <li>9-9-2026 - remade the website using 11ty</li>
