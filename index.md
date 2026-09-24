@@ -30,7 +30,7 @@ layout: main.njk
         <img src="images/myart/COMMSHEET.jpg" style="height: 200px;display: block; margin-left: auto;margin-right: auto;" alt="my commission sheet">
     </div>
     <div class="twoboxes">
-        <h3>Credits</h3>
+        <h2>Credits</h2>
         <ul class=creds>
             <li>Hosted on <a href="https://nekoweb.org/">Nekoweb</a></li>
             <li>Original site layout commissioned from <a href="https://adilene.net/">Adilene</a>. She also made the music player</li>
@@ -46,8 +46,9 @@ layout: main.njk
 <section class="area3">
     <div id="c_widget"></div>
     <div class="update">
-        <h3>Updates</h3>
+        <h2>Updates</h2>
         <ul>
+            <li>9-24-2026 - Updated the Resources page, now known as <a href="bookmarks">Bookmarks</a></li>
             <li>9-18-2026 - added <a href="/artwork">Art</a> and <a href="resources">Resources</a> pages</li>
             <li>9-16-2026 - added rss feed, reorganized css pages</li>
             <li>9-15-2026 - remade the social page</li>

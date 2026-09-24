@@ -13,7 +13,7 @@
                     <li><a href="/artwork">Art</a></li>
                     <li><s><a href="/record">Music Taste</a></s></li>
                     <li><s><a href="/shrines">"Shrines"</a></s></li>
-                    <li><s><a href="/resources">Links/Resources</a></s></li>
+                    <li><a href="/bookmarks">Bookmarks</a></li>
                     <li><s><a href="/graphics">Graphics</a></s></li>
                     <li><a href="/social" title="neighbors, webrings, fanlistings, etc">Social</a></li>
                 </ul>
@@ -25,19 +25,18 @@
         </header>
         <div id="bigbox"><!--SIDEBAR AND MAIN CONTENT-->
             <aside> <!--SIDEBAR-->
+                <a id="theme-toggle" onclick="modeSwitcher()"></a>
                 <nav id="main-menu" aria-label="directory"> <!--NAVIGATION (desktop)-->
-                    <h2 class="dir" style="border-top: none;">directory</h2>
                     <ul class="navvy">
                         <li><s><a href="/about" title="About me!">Webmaster</a></s></li>
                         <li><a href="/artwork">Art</a></li>
                         <li><s><a href="/record">Music Taste</a></s></li>
                         <li><s><a href="/shrines">"Shrines"</a></s></li>
-                        <li><s><a href="/resources">Links/Resources</a></s></li>
+                        <li><a href="/bookmarks">Bookmarks</a></li>
                         <li><s><a href="/graphics">Graphics</a></s></li>
                         <li><a href="/social" title="neighbors, webrings, fanlistings, etc">Social</a></li>
                     </ul>
                 </nav>
-                <a id="theme-toggle" onclick="modeSwitcher()"></a>
                 <div id="musicplayer">
                     <div class="now-playing"></div>
                     
@@ -71,6 +70,12 @@
 
                     <audio id="music" src=""></audio>
                 </div>
+                <div id="statuscafe">
+                    <div id="statuscafe-username"></div>
+                    <div id="statuscafe-content"></div>
+                </div>
+                <img src="https://placehold.co/480x250">
+                <script src="https://status.cafe/current-status.js?name=dhampirave" defer></script>
                 <div class="sitebox">
                     <img src="/images/sitebuttons/mybutton1.png" alt="One of my site buttons" class="centerthing">
                     <textarea rows="3" cols="20" readonly>
@@ -79,7 +84,6 @@
                     <iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>
                     <a href="https://neocities.org/site/dhampirave">Neocities Profile</a>
                 </div>
-                <img>
             </aside>
             <main> <!--MAIN CONTENT-->
                 {{ content | safe }}
@@ -88,10 +92,11 @@
         <footer> <!--FOOTER-->
             {% include "./footer.njk" %}
         </footer>
+        <script src="assets/script.js"></script>
         <script src="assets/year.js"></script> <!--YEAR JS-->
         <script src="assets/themeswitcher.js"></script> <!--LIGHT/DARK MODE-->
         <script src="assets/musicplayer.js"></script> <!--MUSIC PLAYER-->
-        <script src="assets/comment-widget.js"></script>
+        <script src="assets/comment-widget.js"></script>        
     </div>
 </body>
 </html>

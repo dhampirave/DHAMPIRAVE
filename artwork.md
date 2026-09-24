@@ -5,9 +5,9 @@ layout: main.njk
 
 If you want to use any of my art as site decor or as icons, feel free! Just link back to my site please.
 
-If you are interested, **[commission](https://ko-fi.com/dhampirave)** me!
+If you are interested, **[commission](https://ko-fi.com/dhampirave)** me or even check out my **[ACGGOODS shop](https://dhampirave.acggoods.com/)**!
 
-### 2026
+## 2026
 <div class="artgallery">
     <img src="images/myart/2026/hiyahide transparent.png" alt="A chibi of Biwa Hiyahide from Umamusume.'">
     <img src="images/myart/2026/taishin transparent.png" alt="A chibi of Narita Taishin from Umamusume.'">
@@ -23,7 +23,7 @@ If you are interested, **[commission](https://ko-fi.com/dhampirave)** me!
 
 ---
 
-### 2025
+## 2025
 <div class="artgallery">
     <img src="images/myart/2025/za remi.png" alt="Alt design of my Pokèmon OC, Remi">
     <img src="images/myart/2025/render sig.png" alt="My Pokèmon OC, Remi">
@@ -38,7 +38,7 @@ If you are interested, **[commission](https://ko-fi.com/dhampirave)** me!
 
 ---
 
-### Before 2025
+## Before 2025
 <div class="artgallery">
     <img src="images/myart/pre_2025/Illustration21.jpg" alt="Shockwave (G1) gijinka">
     <img src="images/myart/pre_2025/Illustration22.jpg" alt="Shockwave (CBV) gijinka">

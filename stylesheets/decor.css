@@ -70,3 +70,8 @@ ul.creds{
 	list-style-type: square;
 }
 
+blockquote{
+	background-color: var(--bg2);
+	margin: 5px;
+}
+

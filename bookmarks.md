@@ -1,0 +1,249 @@
+---
+title: Resources and Credit
+layout: main.njk
+---
+<h2>Webmastery</h2>
+
+<h3>Code Editors</h3>
+<ul>
+    <li><a href="https://vscodium.com/">VSCodium</a> - The code editor I use. It's the same as VSCode (listed below), just without any microsoft bs</li>
+    <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+    <li><a href="https://github.blog/news-insights/product-news/sunsetting-atom/">Atom</a> - The first code editor I've used. Since 2022 it's been discontinued, however it should still be usable</li>
+    <li><a href="https://notepad-plus-plus.org/">Notepad++</a></li>
+    <li><a href="https://phcode.dev/">Phoenix Code</a> - Theres also a web version</li>
+</ul>
+
+<h3>The basics of html/css and other stuff</h3>
+<ul>
+    <li><a href="https://www.w3schools.com/">w3schools</a> - Various lessons on html/css/etc</li>
+    <li><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></li>
+    <li><a href="https://www.codecademy.com/"></a>Code Academy</li>
+    <li><a href="https://html-css-js.com/">HTML-CSS-JS</a></li>
+    <li><a href="https://internetingishard.netlify.app/index.html">Interneting Is Hard</a> - First coding tutorial I followed</li>
+    <li><a href="https://www.11ty.dev/">11ty</a> - Static site generator. Tutorials <a href="https://petrapixel.neocities.org/coding/eleventy-tutorial">1</a> <a href="https://whiona.weblog.lol/2023/10/my-neocities-workflow-using-eleventy-and-the-cli-to-speed-up-development">2</a></li>
+    <li>Actually, <a href="https://petrapixel.neocities.org/">Petrapixel</a> has a lot of guides to coding!</li>
+    <li><a href="https://kalechips.net/projects/snippets/burger">Hamburger menu</a> tutorial by Kalechips</li>
+    <li><a href="https://www.markdownguide.org/basic-syntax/">Markdown Guide</a></li>
+    <li><a href="https://solaria.neocities.org/guides/gallerytut/">Simple galley</a> - tutorial by Solaria</li>
+    <li><a href="https://biati-digital.github.io/glightbox/#">Glightbox</a> - Image gallery. <a href="https://alphacentauri.neocities.org/tutorials/glightbox-tutorial">tutorial</a> <s>I wasnt able to make it work myself but I know it does...</s></li>
+    <li><a href="https://github.com/Tod314/tj-gallery">TJ gallery</a> - A gallery plugin for jquery</li>
+    <li><a href="https://sadgrl.online/">sadgrl.online</a> - Theres some guides and some layouts</li>
+    <li><a href="https://archive.doqmeat.com/notebook/tutorials/rss/">RSS Guide</a> - by Doqmeat</li>
+    <li><a href="https://joosh.nekoweb.org/help/domains">Domain tutorial</a> - by joosh</li>
+</ul>
+
+<h3>Accessibility</h3>
+<ul>
+    <li><a href="https://www.w3.org/WAI/">W3C Web Accessibility Initiative</a> - Resources from the WC3 to help make your site more accessible </li>
+    <li><a href="https://theultimatemotherfuckingwebsite.com/">theultimatemotherfuckingwebsite</a></li>
+    <li><a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tools</a> - Includes a browser extension</li>
+    <li><a href="https://colourcontrast.cc/">Color Contrast checker</a></li>
+    <li><a href="https://randoma11y.com/">Randoma11y</a></li>
+    <li><a href="https://utopia.fyi/">Utopia</a> - Fluid Responsive Design</li>
+    <li><a href="https://nekocalc.com/px-to-em-converter">px to em Converter</a> & <a href="https://nekocalc.com/px-to-rem-converter">px to rem Converter</a> - Somtimes rem is better than em!</li>
+    <li><a href="https://derekkedziora.com/blog/dark-mode-revisited">dark mode toggle</a> - By Derek Kedziora. the one I use</li>
+    <li><a href="https://fossheim.io/writing/posts/accessible-theme-picker-html-css-js/">Theme picker</a></li>
+    <li><a href="http://www.responsinator.com/">Responsinator</a> - A way to check how your site looks on other devices</li>
+</ul>
+
+<h3>Decor and other things</h3>
+<ul>
+    <li><a href="https://www.cssportal.com/">CSS Portal</a></li>
+    <li><a href="https://scripted.neocities.org/">scripted resources</a></li>
+    <li><a href="https://colorhunt.co/">Color Hunt</a> - Color Palettes</li>
+    <li><a href="https://foollovers.com/">FOOL LOVERS</a> - Various graphics such as backgrounds, buttons, pixels, as well as some codes and templates. Site is in Japanese.</li>
+    <li><a href="https://www.fancyparts.com/" title="Fancy Parts Shop">ふぁんしー・ぱーつ・しょっぷ </a> - Cute Graphics and Clip(?) art. Site is in Japanese.</li>
+    <li><a href="https://haneusagi.himegimi.jp/index.html">Lapin Agile</a> - Japanese site</li>
+    <li><a href="https://pixelsafari.neocities.org" target="_blank">Coco's Pixel Safari</a></li>
+    <li><a href="https://pochi.crd.co/">dia's code carrd</a></li>
+    <li><a href="https://loveberry.neocities.org/">Loveberry Resources</a></li>
+    <li><a href="https://repth.neocities.org/">repth</a> - A lot of layouts</li>
+    <li><a href="https://eggramen.neocities.org">EGGRAMEN</a> - layouts</li>
+    <li><a href="https://grid.layoutit.com/">Layoutit!'s CSS grid generator'</a> - A css grid generator.</li>
+</ul>
+
+<h2>Tech & Web</h2>
+<a href="https://pcpartpicker.com/user/destreza/saved/3Xf8Hx">PC build</a>
+
+<h3>Linux stuff</h3>
+I generally reccomend using linux but just as a disclaimer DO NOT get into this unless you are absolutely sure you want to try it out and are able to make the switch
+<ul>
+    <li><a href="https://www.linuxmint.com/">Linux Mint</a> - The distro I use. I use the MATE version</li>
+    <li><a href="https://distrochooser.de/en/">Distrochooser</a> - A quiz that helps you determine which distro you can use!</li>
+    <li><a href="https://distrowatch.com/">DistroWatch</a> - Info and news on various Linux and BSD based distros</li>
+    <li><a href="https://cachyos.org/">CachyOS</a> - Arch based distro aimed at beginners. Never tried it but it seems cool</li>
+    <li><a href="https://www.opensuse.org/">openSUSE</a> - Another distro that seems neat!</li>
+    <li><a href="https://github.com/palfrey/discord-apt">Discord APT repository</a></li>
+    <li><a href="https://github.com/dimtpap/obs-pipewire-audio-capture">obs-pipewire-audio-capture</a></li>
+    <li><a href="https://github.com/GloriousEggroll/proton-ge-custom">Proton GE</a></li>
+    <li><a href="https://github.com/desktop-app/qt5ct">qt5ct</a></li>
+    <li><a href="https://www.opendesktop.org/browse?cat=148&ord=latest">openDesktop</a> - Various themes and icons you can use</li>
+</ul>
+
+<h3>Browser stuff</h3>
+I use Firefox, specifically the Developer Edition
+<ul>
+    <li><a href="https://firefoxcss-store.github.io/">Firefox CSS Store</a></li>
+    <li><a href="https://github.com/leadweedy/Firefox-Proton-Square">Firefox Proton Square</a></li>
+    <li><a href="https://github.com/yokoffing/Betterfox">Betterfox</a></li>
+    <li><a href="https://github.com/dimdenGD/OldTwitter">OldTwitter</a> - You'll need to install it manually</li>
+    <li><a href="https://ublockorigin.com/">uBlock Origin</a> - and the <a href="https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist">AI blacklist</a></li>
+    <li><a href="https://addons.mozilla.org/en-US/firefox/addon/sidebery/">Sidebery</a> - Tab/Bookmark manager.</li>
+    <li><a href="https://addons.mozilla.org/en-US/firefox/addon/webp-image-converter/">WebP / Avif image converter</a> - Converter for WebP/Avif images</li>
+    <li><a href="https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies">I still don't care about cookies</a> - Community-run version of "I don't care about cookies", free of any influence from Avast<br></li>
+    <li><a href="https://privacybadger.org/">Privacy Badger</a> - Blocks invisible trackers<br></li>
+    <li><a href="https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin/">minerBlock</a> - A blocker for cryptocurrency miners<br></li>
+    <li><a href="https://github.com/cowlicks/privacypossum">Privacy Possum</a> - Another tracking blocker<br></li>
+    <li><a href="https://www.tampermonkey.net/">Tampermonkey</a> - Userscript manager</li>
+    <li><a href="https://darkreader.org/">Dark Reader</a> - Adds a dark mode for every website (some sites look better than others)</li>
+</ul>
+
+<h3> Windows stuff (that i dont use anymore...)</h3>
+<ul>
+    <li><a href="https://www.oo-software.com/en/shutup10">O&O ShutUp10++</a> - Antispy tool for Windows 10/11</li>
+    <li><a href="https://winaerotweaker.com/">Winero Tweaker</a> - Tuning app for Windows 7/8/10/11</li>
+    <li><a href="https://www.majorgeeks.com/files/details/10appsmanager.html">10AppsManager</a> - Uninstalls and/or reinstalls the preinstalled Windows 10 apps</li>
+    <li><a href="https://github.com/Open-Shell/Open-Shell-Menu">Open-Shell</a> - Customizes the Start menu to its pasts looks.</li>
+    <li><a href="https://startisback.com/">StartisBack</a> - Similar to above</li>
+    <li><a href="https://github.com/AutoDarkMode/Windows-Auto-Night-Mode">Auto Dark Mode</a></li>
+    <li><a href="https://github.com/TranslucentTB/TranslucentTB">TranslucentTB</a></li>
+    <li><a href="https://github.com/microsoft/PowerToys">PowerToys</a></li>
+</ul>
+
+<h2>Video Games</h2>
+
+<h3>Nintendo</h3>
+<ul>
+    <li><a href="https://3ds.hacks.guide/">3ds Hacks Guide</a> - Did you know its surprisingly easy to hack your 3ds</li>
+    <li><a href="https://hshop.erista.me/">hShop</a> - 3ds games and software!</li>
+    <li><a href="https://themeplaza.art/themes">Theme Plaza</a> - Custom 3ds themes! Install with <a href="https://github.com/astronautlevel2/Anemone3DS">Anemone</a></li>
+    <li><a href="https://wiiu.hacks.guide/#/">Wii U Hacks Guide</a> - To hombrew your Wii U if you're one of the 2 people who got one</li>
+    <li><a href="https://dawnshard.co.uk/">Dawnshard</a> - Dragaila Lost private server. <a href="https://docs.google.com/document/d/1SR3WcfaFEkisJ6BsVxLvGwy-2RYazwF9F4XLFi-UV1k/edit#heading=h.nmdc2cu3vzy2">Android Guide</a> <a href="https://docs.google.com/document/d/1EaioDIddITTX8NrE8dTTDLfDrq2iVEK_5omw7T7kCKs/edit#heading=h.8bwf4z8nx9k5">IOS guide</a></li>
+</ul>
+
+<h4>Pokemon</h4>
+<ul>
+    <li><a href="https://pokehacks.dabomstew.com/randomizer/">Universal Pokemon Game Randomizer</a> - Pokemon randomizer (Up to Gen 5)</li>
+    <li><a href="https://play.pokemonshowdown.com/">Pokemon Showdown</a> - THE Pokemon battle simulator</li>
+    <li><a href="https://www.smogon.com/">Smogon</a> - A resource on competetive Pokemon battling</li>
+    <li><a href="https://gamebanana.com/mods/51355">Major Trainers Rework</a> - SWSH rebalance mod</li>
+    <li><a href="https://ko-fi.com/s/4a1535f351">Pokemon Emerald Seaglass</a> - Gen 2 styled romhack of Emerald</li>
+    <li><a href="https://www.pokecommunity.com/threads/the-pit-v2-roguelite-style-hack.528423/">The Pit</a> - Roguelite</li>
+    <li><a href="https://www.pokecommunity.com/threads/pokemon-fire-red-reignited-leaf-green-regrown-decomp-hack-v2-1-out.535393/">Fire Red Reignited & Leaf Green Regrown</a></li>
+    <li><a href="https://www.pokecommunity.com/threads/refined-platinum-overhaul-complete.534483/">Refined Platinum</a></li>
+    <li><a href="https://www.pokecommunity.com/threads/refined-gold-overhaul-complete.534484/">Refined Gold</a></li>
+    <li><a href="https://www.pokecommunity.com/threads/pokemon-dx-a-pok%C3%A9mon-x-doubles-hack.474907/">Pokemon dX</a> - Pokemon X hack changing every trainer battle into double battles</li>
+</ul>
+
+<h4>Fire Emblem</h4>
+<ul>
+    <li><a href="https://serenesforest.net/">Serenes Forest</a> - THE English language Fire Emblem fansite</li>
+    <li><a href="https://www.fireemblemwod.com/">Fire Emblem War of Dragons</a> - Spanish language Fire Emblem fansite. Some pages have English Translations</li>
+    <li><a href="https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414">Project Ember</a> - A graphic/gameplay overhaul of Fire Emblem: The Binding Blade. English translation included.</li>
+    <li><a href="https://feuniverse.us/t/fe8-sacred-stones-reforged-v1-0-2/28486">Sacred Stones Reforged</a> - Graphical and gameplay overhaul of Fire Emblem: The Sacred Stones</li>
+</ul>
+
+<h3>The Rest</h3>
+<ul>
+    <li><a href="https://www.vg-resource.com/">The VG Resource</a> - Includes the Spriters Resource</li>
+    <li><a href="https://www.fightersgeneration.com/">Fighters Generation</a> - Resources on fighting games</li>
+    <li><a href="https://www.dustloop.com/w/Main_Page">Dustloop</a> - Resources specifically about fighting games by Arc System Works (Guilty Gear, BlazBlu, etc.)</li>
+    <li><a href="https://vita.hacks.guide/">Vita Hacks guide</a> - If you ever want to hack your PS Vita!</li>
+    <li><a href="https://prismlauncher.org/">Prism Launcher</a> - The Minecraft launcher I use</li>
+    <li><a href="https://vimm.net/">Vimm's Lair</a> - Collection of emulators and games!</li>
+    <li><a href="https://goatcorp.github.io/">XIVLauncher</a></li>
+</ul>
+
+<h4>Type Moon</h4>
+<blockquote>
+    <i>Please be aware that Type-Moon works are generally for 18+ audiences and that depending on the work, may include topics such as rape, pedophilia, incest, abuse and gore among other things.</i>
+</blockquote>
+<ul>
+    <li><a href="https://fatestaynight.vnovel.org/">Fate/Stay Night (web)</a> - An unofficial browser version of the vn Fate/Stay night</li>
+    <li><a href="https://tsukiweb.holofield.fr/title">Tsukihime (Web)</a> -  An unofficial browser version of the visual novel Tsukihime (2000 ver.)</li>
+</ul>
+
+<h2>Art</h2>
+
+<h3>Digital</h3>
+<h4>Programs</h4>
+<ul>
+    <li><a href="https://www.clipstudio.net/en/">Clip Studio Paint</a> - Program I currently use. <a href="https://github.com/parka6060/CSPenguin-Installer">Linux installation</a></li>
+    <li><a href="https://www.systemax.jp/en/sai/">Paint Tool Sai</a></li>
+    <li><a href="https://krita.org/">Kirita</a></li>
+    <li><a href="https://firealpaca.com/">FireAlpaca</a></li>
+    <li><a href="https://procreate.com/">Procreate</a> - iPad <i>only</i></li>
+</ul>
+<h4>Tablets and other peripherals</h4>
+<ul>
+    <li><a href="https://www.xp-pen.com/product/artist-12-2nd-gen.html">XP-Pen Artist 12 (Gen 2)</a> - My current display tablet</li>
+    <li><a href="https://gaomon.net/products/s620-pen-tablet">GAOMON S620 Pen Tablet</a></li>
+</ul>
+
+<h3>Traditional</h3>
+to be added!
+
+<h2>Misc Bookmarks</h2>
+
+<h3>Fonts</h3>
+<ul>
+    <li><a href="https://www.brailleinstitute.org/freefont/">Atkinson Hyperlegible</a></li>
+    <li><a href="http://www.04.jp.org/">04.jp.org</a> - Yuji Oshimoto's (creator of the '04' fonts) site.</li>
+    <li><a href="https://www.nerdfonts.com/#home">Nerd Fonts</a></li>
+    <li><a href="https://github.com/the-moonwitch/Cozette">Cozette</a></li>
+    <li><a href="https://github.com/TakWolf/retro-pixel-font">Retro Pixel Font</a></li>
+    <li>Fonts by <a href="https://github.com/leovilok/fonts">leovilok</a></li>
+    <li><a href="https://github.com/rbanffy/3270font">3270font</a></li>
+    <li><a href="https://github.com/subframe7536/maple-font">Maple Mono</a></li>
+    <li><a href="https://github.com/ahatem/IoskeleyMono">Ioskeley Mono</a></li>
+    <li><a href="https://github.com/molarmanful/kirsch">kirsch</a></li>
+    <li><a href="https://github.com/hckiang/font-new-heterodox-mono">New Heterodox Mono</a></li>
+    <li><a href="https://github.com/negset/Firple">Firple</a></li>
+</ul>
+
+<h3>Color Schemes</h3>
+<ul>
+    <li><a href="https://github.com/catppuccin/catppuccin">Catppuccin</a></li>
+    <li><a href="https://github.com/morhetz/gruvbox">gruvbox</a></li>
+    <li><a href="https://github.com/sainnhe/gruvbox-material">gruvbox material</a></li>
+    <li><a href="https://github.com/rebelot/kanagawa.nvim">Kanagawa</a></li>
+    <li><a href="https://rosepinetheme.com/">Rosé Pine</a></li>
+    <li><a href="https://github.com/sainnhe/sonokai">sonokai</a></li>
+    <li><a href="https://github.com/sainnhe/edge">Edge</a></li>
+    <li><a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a></li>
+    <li><a href="https://github.com/chriskempson/base16-schemes-source">Base16</a></li>
+    <li><a href="https://github.com/kepano/flexoki">Flexoki</a></li>
+    <li><a href="https://github.com/mellow-theme/mellow.nvim">mellow</a></li>
+    <li><a href="https://github.com/material-ocean/Material-Ocean">Material Ocean</a></li>
+    <li><a href="https://github.com/sainnhe/everforest">everforest</a></li>
+    <li><a href="https://github.com/Everblush/everblush">everblush</a></li>
+    <li><a href="https://github.com/kepano/flexoki">Flexoki</a></li>
+    <li><a href="https://github.com/yeun/open-color">Open color</a></li>
+    <li><a href="https://github.com/dracula/dracula-theme">Dracula</a></li>
+    <li><a href="https://github.com/ayu-theme/ayu-colors">ayu</a></li>
+</ul>
+
+<h3>Image storage and editing</h3>
+<ul>
+    <li><a href="https://shortpixel.com/online-image-compression">ShortPixel</a> - Image compressor</li>
+    <li><a href="https://placehold.co/">Placehold</a> - Placeholder images</li>
+    <li><a href="https://ezgif.com/">ezgif</a> - Online gif maker</li>
+    <li><a href="https://www5.lunapic.com/editor/">LUNAPIC</a> - Online image editor</li>
+    <li><a href="https://catbox.moe/">Catbox</a> - Image hosting service. There is also a <a href="https://litterbox.catbox.moe/">temporary version</a>.</li>
+    <li><a href="https://filegarden.com/">File Garden</a> - Image hosting service</li>
+</ul>
+
+<h3>Other Bookmarks</h3>
+<ul>
+    <li><a href="https://proton.me/mail">Proton Mail</a> - Includes a VPN</li>
+    <li><a href="https://obsidian.md/">Obsidian</a></li>
+    <li><a href="https://decolonizepalestine.com/">Decolonize Palestine</a></li>
+    <li><a href="https://bdsmovement.net/">BDS Movement</a></li>
+    <li><a href="https://archive.org/web/">Internet Archive</a></li>
+    <li><a href="https://lostmediawiki.com/Home">Lost Media Wiki</a> - Database of lost media</li>
+    <li><a href="https://alternativeto.net/">AlternativeTo</a> - Find alternatives to various software!</li>
+    <li><a href="https://www.doesthedogdie.com/">Does the Dog Die?</a></li>
+    <li><a href="https://fmhy.net/">FMHY</a></li>
+    <li><a href="https://vocadb.net/">Vocadb</a></li>
+    <li><a href="http://mikudb.moe/">Mikudb</a></li>
+</ul>

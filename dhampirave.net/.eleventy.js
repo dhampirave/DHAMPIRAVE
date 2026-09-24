@@ -9,7 +9,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("stylesheets/style.css", "stylesheets/extras.css", "stylesheets/decor.css");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("fonts");
-  eleventyConfig.addPassthroughCopy("rss.xml");
   eleventyConfig.addTransform("htmlmin", function (content) {
     if ((this.page.outputPath || "").endsWith(".html")) {
       let minified = htmlmin.minify(content, {
