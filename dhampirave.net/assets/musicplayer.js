@@ -32,19 +32,19 @@ let track_list = [
         path:"https://files.catbox.moe/nojunc.mp3"
     },
     {
-        name:"Kimi ni Kaikisen",
-        artist:"inabakumori",
-        path:"https://files.catbox.moe/1pxdnw.mp3"
+        name:"Ophelia",
+        artist:"PinkPantheress",
+        path:"https://file.garden/Zz-99CUl9S_S5UhV/music/Ophelia.mp3"
     },
     {
         name:"What You Know",
         artist:"Two Door Cinema Club",
-        path:"https://files.catbox.moe/xv3vdj.mp3"
+        path:"https://file.garden/Zz-99CUl9S_S5UhV/music/What%20You%20Know%20-%20Two%20Door%20Cinema%20Club.mp3"
     },
     {
-        name: "Her Boyfriend, Jude",
-        artist:"Syudou",
-        path: "https://files.catbox.moe/49iuxl.mp3",
+        name: "BGM - HAPPYPILLS ver.",
+        artist:"Utsu-P",
+        path: "https://file.garden/Zz-99CUl9S_S5UhV/music/02%20BGM%20-HAPPYPILLS%20ver.mp3",
     },
 ];
 //
