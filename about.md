@@ -22,6 +22,7 @@ layout: main.njk
         <p>
             I'm also a shameless kinnie (semi ironically), yumeshipper (<b>unironically</b>), general fandom member doing whatever I like. Doubles are more than fine with me!
         </p>
+        more tba!
     </div>
     <img class="bbright2" src="https://placehold.co/300x400" alt="">
 </section>
