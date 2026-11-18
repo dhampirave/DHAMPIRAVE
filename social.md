@@ -5,13 +5,13 @@ layout: main.njk
 
 <section class="toprect">
 <h3>Site Buttons</h3>
-    <section class="socgal">
+    <section class="basicgal">
         <img src="images/sitebuttons/mybutton1.png" alt="my site button!"><img src="images/sitebuttons/mybutton2.png" alt="my site button!"><img src="images/sitebuttons/mybutton3.png" alt="my site button!"><img src="images/sitebuttons/mybutton4.png" alt="my site button!">
     </section>
 </section>
 <section class="rectgen">
     <h3>Neighbors</h3>
-    <section class="socgal">
+    <section class="basicgal">
         <a href="https://nekoweb.org/"><img src="https://nekoweb.org/assets/buttons/button9.gif" alt="Nekoweb"></a>
         <a href="https://nekodir.nekoweb.org/"><img src="images/sitebuttons/nekodir.webp" alt="Nekodir site button"></a>
         <a href="https://archive.org/"><img src="images/sitebuttons/internetarchive.webp" alt="Internet Archive"></a>
@@ -94,7 +94,7 @@ layout: main.njk
     </div>
     <div class="altboxes">
         <h3>Fanlisting</h3>
-        <section class="socgal">
+        <section class="basicgal">
             <a href="http://www.marheavenj.net/emu/index.php"><img src="images/fanlistings/emufanlist.webp" alt="Fanlisting for Emu Otori"></a>
             <a href="https://n.shinshoku.net/"><img src="images/fanlistings/nfanlist.webp" alt="Fanlisting for N (Pokemon)"></a>
             <a href="https://lucina.reflet.org/index.php"><img src="images/fanlistings/lucinafanlist.webp" alt="Fanlisting for Lucina (Fire Emblem)"></a>

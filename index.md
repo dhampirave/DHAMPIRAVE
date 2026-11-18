@@ -4,8 +4,8 @@ layout: main.njk
 ---
 
 <section class="basicbox">
-        <img src="images/bike miku ad.webp" class="bbleft" alt="an advertisment featuring racing miku 2016 teamukyo support version">
-    <div class ="bbright">
+        <img src="images/bike miku ad.webp" class="bbleft1" alt="an advertisment featuring racing miku 2016 teamukyo support version">
+    <div class ="bbright1">
         <p>
             Welcome to DHAMPIRAVE, the website for all things relating to me! Here you will find what music I like, my artwork, my 'shrines' dedicated to my interests, and many many more things. <br>
             The site was made on a 1920x1080 screen and is intended for desktop, however, this site is mobile responsive! While I try to keep this site as clean as possible, I would reccomend anyone under the age of 16 to stay away from the site.
@@ -43,13 +43,14 @@ layout: main.njk
         </ul>
     </div>
 </section>
+
 <section class="area3">
     <div id="c_widget"></div>
     <div class="update">
         <h2>Updates</h2>
         <ul>
             <li>9-24-2026 - Updated the Resources page, now known as <a href="bookmarks">Bookmarks</a></li>
-            <li>9-18-2026 - added <a href="/artwork">Art</a> and <a href="resources">Resources</a> pages</li>
+            <li>9-18-2026 - added <a href="/artwork">Art</a> and Resources pages</li>
             <li>9-16-2026 - added rss feed, reorganized css pages</li>
             <li>9-15-2026 - remade the social page</li>
             <li>9-9-2026 - remade the website using 11ty</li>
