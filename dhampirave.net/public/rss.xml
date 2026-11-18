@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<title>RSS FEED</title>
+		<link>https://dhampirave.net</link>
+		<description>a personal site</description>
+		<webMaster>dhampirextras@pm.me (SANTIAGO)</webMaster>
+		<atom:link href="https://dhampirave.net/rss.xml" rel="self" type="application/rss+xml" />
+
+		<item>
+			<title>New items available at ACGGOODS!</title>
+			<link>https://dhampirave.acggoods.com/</link>
+			<description>Some new keychains and stickers have been added to the shop!</description>
+			<pubDate>Oct, 18 Sep 2026 15:10:33 -0400</pubDate>
+			<guid isPermaLink="false">post%02</guid>
+		</item>
+
+		<item>
+			<title>Now selling on ACGGOODS!</title>
+			<link>https://dhampirave.acggoods.com/</link>
+			<description>I've started selling on ACGGOODS!</description>
+			<pubDate>Tue, 22 Sep 2026 16:18:33 -0400</pubDate>
+			<guid isPermaLink="false">post%02</guid>
+		</item>
+
+		<item>
+			<title>Domain Name change</title>
+			<link>https://dhampirave.net/</link>
+			<description>site url is now dhampirave.net!</description>
+			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
+			<guid isPermaLink="false">post%02</guid>
+		</item>
+
+		<item>
+			<title>start of rss feed</title>
+			<link>https://dhampirave.net/</link>
+			<description>The official start of the RSS feed. Previous updates included overhauling the website code on Sept 9th, 2026.</description>
+			<pubDate>Wed, 16 Sep 2026 12:14:31 -0400</pubDate>
+			<guid isPermaLink="false">post%01</guid>
+		</item>
+
+	</channel>
+</rss>
